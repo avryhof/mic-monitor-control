@@ -1,6 +1,8 @@
 # mic-monitor-control
 A simple Python/Tkinter app to control PulseAudio microphone monitoring (listen to microphone)
 
+![Screenshot of Mic Monitor](https://github.com/avryhof/mic-monitor-control/blob/main/Screenshot%20from%202025-10-02%2018-02-44.png?raw=true)
+
 # Why
 I wanted to be able to use TVs for my presentations, and as the amplifier for my audio as well.  PaulseAudio Volume Control seems to have had this feature in the past, but it seems to be gone now.
 
